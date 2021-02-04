@@ -1,0 +1,20 @@
+*.o
+
+# /
+/libvex*.a
+/TAG_*
+/.deps
+/Makefile
+
+# /auxprogs/
+/auxprogs/genoffsets
+
+# /priv/
+/priv/.deps
+/priv/.dirstamp
+
+# /pub/
+/pub/libvex_guest_offsets.h
+
+# /switchback/
+/switchback/switchback
